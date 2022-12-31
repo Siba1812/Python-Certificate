@@ -1,0 +1,5 @@
+print("hii my self SHIBA")
+print("this ia a class of data science")
+print("this is on dated 3rd of november")
+print(12)
+print(45.6)

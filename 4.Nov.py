@@ -1,0 +1,8 @@
+print(type(12))
+print('my self shiba')
+print(34.6)
+print(type(True))
+print("true")
+type(12)
+print(24)
+type(print(34))
